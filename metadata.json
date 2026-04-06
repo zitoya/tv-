@@ -1,0 +1,5 @@
+{
+  "name": "CyberTNT France",
+  "description": "Une interface Cyberpunk pour accéder aux chaînes de la TNT française et consulter les programmes TV en direct.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,17 @@
+{
+  "name": "CyberTNT France",
+  "short_name": "CyberTNT",
+  "description": "Interface Cyberpunk pour les chaînes TNT françaises",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00ffff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

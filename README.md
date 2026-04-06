@@ -1,11 +1,23 @@
-<div align="center">
+# CyberTNT France // Protocol v2.0
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Interface Cyberpunk pour les chaînes TNT françaises.
 
-  <h1>Built with AI Studio</h2>
+## Déploiement sur Vercel
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Ce projet est prêt pour un déploiement immédiat sur **Vercel**.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### Configuration incluse :
+- **`vercel.json`** : Gère les redirections SPA (Single Page Application) pour éviter les erreurs 404 lors du rafraîchissement des pages.
+- **`public/manifest.json`** : Permet l'installation en tant que PWA (Progressive Web App).
+- **`public/robots.txt`** et **`public/sitemap.xml`** : Optimisation SEO.
 
-</div>
+### Comment déployer ?
+1. Connectez votre dépôt GitHub à [Vercel](https://vercel.com).
+2. Vercel détectera automatiquement le projet **Vite**.
+3. Cliquez sur **Deploy**.
+
+### Technologies :
+- React 19 + Vite
+- Tailwind CSS (Cyberpunk Theme)
+- Framer Motion (Animations)
+- Express (Fallback local)
